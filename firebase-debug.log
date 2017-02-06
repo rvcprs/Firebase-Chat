@@ -1,0 +1,14 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Acer\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v6.9.5
+[debug] Time:         Mon Feb 06 2017 19:35:05 GMT+0800 (China Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\Acer\Desktop\Firebase_exam\friendlychat\web-start
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
